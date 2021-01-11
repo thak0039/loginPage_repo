@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-image: url("./img/bgimg.jpg");
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 3%;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.box a {
+    text-decoration: none;
+    color: #d64d78;
+    margin: 35px 50px;
+}
+
+.box .fpass {
+    text-align: right;
+    padding: 5px 0;
+}
+
+.box {
+    height: 400px;
+    width: 500px;
+    color: #d64d78;
+    background-color: #f4e8ea;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.box button {
+    cursor: pointer;
+    color: white;
+    padding: 10px 20px;
+    margin: 35px 50px;
+    width: 78%;
+    background-color: #d64d78;
+    border: none;
+    border-radius: 20px;
+}
+
+.box input {
+    margin: 10px 50px;
+    padding: 10px 20px;
+    width: 70%;
+    border: none;
+    border-bottom: 2px solid #d64d78;
+    background: transparent;
+}
+
+.companeyname {
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.companeyname h1 {
+    font-size: 52px;
+    padding: 1rem 0 0;
+}
